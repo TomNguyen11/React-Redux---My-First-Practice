@@ -1,0 +1,31 @@
+.form-search {
+  margin-bottom: 20px;
+}
+.form-search input[type=text] {
+  width: 300px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: #e1f3f1;
+  color: #000;
+  padding-left: 10px;
+  font-size: 17px;
+  border: 1px solid #3f8d8b;
+  outline: 0;
+}
+.form-search input[type=checkbox] {
+  width: 35px;
+  height: 25px;
+  vertical-align: middle;
+}
+.product-list {
+  padding: 0 20px;
+}
+.product-item {
+  width: 150px;
+  height: 150px;
+  background-color: #7dccc2;
+  margin:  30px;
+  box-shadow: 2px 3px 4px #675B5B;
+  float: left;
+  padding: 25px;
+}
